@@ -1,5 +1,5 @@
 # Jurnal Modul 02
 
-NIM: 
+NIM: 6706213021
 
-Nama: 
+Nama: Rama Sanjaya
